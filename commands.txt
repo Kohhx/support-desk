@@ -1,0 +1,3 @@
+npm install express dotenv mongoose colors bcryptjs
+
+npm install -D nodemon
