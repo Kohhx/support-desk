@@ -3,3 +3,5 @@ npm install express dotenv mongoose colors bcryptjs
 npm install -D nodemon
 
 npm install --save express-async-handler
+
+npm install jsonwebtoken
