@@ -5,3 +5,10 @@ npm install -D nodemon
 npm install --save express-async-handler
 
 npm install jsonwebtoken
+
+npx create-react-app frontend --template redux
+
+npm install concurrently
+
+// Install in frontend
+npm install react-router-dom react-toastify axios react-icons react-modal
